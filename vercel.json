@@ -1,6 +1,0 @@
-{
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "installCommand": "cd Rockety/Rockety-master && npm ci",
-  "buildCommand": "cd Rockety/Rockety-master && npm run build",
-  "outputDirectory": "Rockety/Rockety-master/dist"
-}
