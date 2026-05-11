@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "npm install --prefix Rockety/Rockety-master",
+  "buildCommand": "npm run build --prefix Rockety/Rockety-master",
+  "outputDirectory": "Rockety/Rockety-master/dist"
+}
